@@ -7,6 +7,8 @@
 
   <Button label="Check" icon="pi pi-check" />
 
+  <Calendar v-model="date" />
+
   <ul>
     <li>Potirons</li>
     <li>Carottes</li>
