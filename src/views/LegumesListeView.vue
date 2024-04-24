@@ -1,5 +1,8 @@
 <script setup>
 import LegumeFiche from "@/components/LegumeFiche.vue";
+
+let toto = "toto";
+          console.log(toto);
 </script>
 
 <template>
