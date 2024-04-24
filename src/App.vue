@@ -12,6 +12,8 @@ import { RouterLink, RouterView } from 'vue-router'
       </nav>
     </div>
   </header>
+
+
   <!-- Affiche le composant correspondant à l'URL, à la route courante -->
   <!-- Les routes sont décrites dans le fichier src/router/index.js -->
   <main>
